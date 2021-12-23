@@ -2,6 +2,6 @@ package strings
 
 import "errors"
 
-func randomString(len int32) string {
+func RandomString(len int32) string {
 	panic(errors.New("implement me"))
 }
