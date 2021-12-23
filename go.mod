@@ -1,3 +1,3 @@
-module go-utils
+module github.com/bllyanos/go-utils
 
 go 1.17
